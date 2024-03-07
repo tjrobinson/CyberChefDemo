@@ -19,3 +19,9 @@ https://community.chocolatey.org/packages/cyberchef
 1. Run `choco install cyberchef`
 2. Installs a shortcut in `C:\Users\YourName\Desktop` (not your OneDrive desktop folder if you're using that)
 3. You can still search for `CyberChef.lnk`, or open <file:///C:/ProgramData/chocolatey/lib/cyberchef/tools/CyberChef_vx.y.z.html> in your browser
+
+# Demos
+
+## Frequency distribution
+
+https://gchq.github.io/CyberChef/#recipe=Frequency_distribution(false,true)&input=VGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIHRoZSBsYXp5IGRvZw
