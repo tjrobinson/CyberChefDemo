@@ -64,6 +64,8 @@ https://community.chocolatey.org/packages/cyberchef
 
 Credit: https://github.com/mattnotmax/cyberchef-recipes?tab=readme-ov-file#recipe-57---make-a-meme-with-cyberchef
 
+## Features
+
 ## Themes
 
 Show different themes.
@@ -71,6 +73,10 @@ Show different themes.
 ## Save/Load Recipes
 
 Show different themes.
+
+## Custom operations
+
+It's possible, [Adding a new operation](https://github.com/gchq/CyberChef/wiki/Adding-a-new-operation).
 
 # Resources
 
